@@ -2,7 +2,11 @@
 ### This is a little smaller
 ###### and this is the smallest
 
-``` javascript
+- [X] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+``` C#
 const testVar = 'Hello, World';
 ```
 
